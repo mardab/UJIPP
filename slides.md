@@ -18,7 +18,7 @@ Marcin Dąbrowski
 ### feel free to follow along
 
 ![QR](assets/qr.png)  
-mardab.github.io/ujipp
+https://mardab.github.io/UJIPP
 
 ---
 
