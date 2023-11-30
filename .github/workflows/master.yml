@@ -25,6 +25,6 @@ jobs:
           cp -r assets build/
           ./node_modules/.bin/reveal-md --theme moon --static build slides.md
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+        uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
           FOLDER: build
